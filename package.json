@@ -1,0 +1,22 @@
+{
+  "name": "resizer",
+  "version": "1.0.0",
+  "description": "Electron App",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichOchieng/resizer.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Mich Ochieng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichOchieng/resizer/issues"
+  },
+  "homepage": "https://github.com/MichOchieng/resizer#readme"
+}
